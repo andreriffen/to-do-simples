@@ -2,7 +2,7 @@
 
 - 📋📌📝
 
-![https://andreriffen.github.io/to-do-simples/](https://github.com/andreriffen/img.jpg)
+![https://andreriffen.github.io/to-do-simples/]([https://github.com/andreriffen/img.jpg](https://github.com/andreriffen/to-do-simples/blob/345cf6497b340cf59a9238f9ff97933cdee20a32/preview.jpg))
 
 [Demonstração no GitHub Pages](https://andreriffen.github.io/to-do-simples/).
 
